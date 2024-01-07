@@ -1,2 +1,2 @@
 # Personal-Portfolio
-<a href="https://github.com/Prerna-11/Personal-Portfolio">View Here</a>
+<a href="https://prerna-11.github.io/Personal-Portfolio/">View Here</a>
